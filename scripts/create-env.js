@@ -1,3 +1,3 @@
 const fs = require("fs");
 
-fs.writeFileSync("./.env", `ÀPI=${proccess.env.API}\n`)
+fs.writeFileSync("./.env", `API=${proccess.env.API}\n`)
